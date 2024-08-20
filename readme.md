@@ -64,12 +64,8 @@ Otherwise, you need to manually install the needed dependencies. So execute the 
 
 **Credits**
 
-José Carvalho
-
-Henrique Martins
-
-Manuel Silva
-
-Pedro Amaral
-
+José Carvalho\
+Henrique Martins\
+Manuel Silva\
+Pedro Amaral\
 Sixto González
