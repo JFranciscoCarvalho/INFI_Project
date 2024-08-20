@@ -1,0 +1,77 @@
+
+body 
+{
+  margin: 0;
+  font-family: 'Muli';
+  margin-bottom:150px;
+  background-color:beige;
+}
+
+.navbar 
+{
+  overflow: hidden;
+  background-color: #bbc487;
+  width: 100%;
+  height:67px;
+  position: fixed;
+  top:0;
+}
+
+.navbar img
+{
+	float:left;
+}
+
+.navbar a 
+{
+  float: right;
+  color: White;
+  text-align: center;
+  padding: 24px 26px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.navbar a:hover 
+{
+  background-color: #C76163; 
+  color: white;
+}
+
+
+.navbar a.active 
+{
+  background-color: #C76163;
+  color: white;
+}
+.banner img 
+{
+	width: 100%;
+	height: auto;
+	margin-top:67px;
+}
+.button_action 
+	{
+		border: none;
+		color: Floralwhite;
+		background-color:#b53f42;
+		text-align: center;
+		font-size: 15px;
+		cursor: pointer;		  
+		text-decoration:none;
+    padding: 7px;
+    font-family: 'Muli';
+	}
+  .button_update 
+	{
+		border: none;
+		color: Floralwhite;
+		background-color:#b53f42;
+		text-align: center;
+		font-size: 12px;
+		cursor: pointer;		  
+		text-decoration:none;
+    padding: 4px;
+    font-family: 'Muli';
+	}

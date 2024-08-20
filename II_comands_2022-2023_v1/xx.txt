@@ -1,0 +1,3 @@
+172.22.xx.xx  > working
+172.29.xx.xx > not working
+10.227.xx.xx > working
