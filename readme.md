@@ -61,3 +61,15 @@ Otherwise, you need to manually install the needed dependencies. So execute the 
 ```sh
 >pip install -r requirements.txt
 ```
+
+**Credits**
+
+José Carvalho
+
+Henrique Martins
+
+Manuel Silva
+
+Pedro Amaral
+
+Sixto González
